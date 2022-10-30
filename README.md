@@ -13,7 +13,7 @@ This repository is made to have a simple RedM server with the ability to create 
 7) Run Through the TX Admin Set Up
 8) Create a License Key using the server IP from above at 
   https://keymaster.fivem.net/
-9) Replace **YOUR LICENCE ID** with key on line 53 of server.cfg
+9) Replace **YOUR LICENCE ID** with key on line 54 of server.cfg
 10) Restart Server and connect via F8 in RedM - connect localhost
 
 Watch the video here for a quick easy to follow guide. 
@@ -21,6 +21,5 @@ Watch the video here for a quick easy to follow guide.
 Thanks to the creators of free used repositories to create this guide. 
 
 https://github.com/kibook
-https://kibook.github.io/redm-uiprompt/
 
 Make sure to follow our other tutorial vidoes for more RedM Scripting and Coding Help
