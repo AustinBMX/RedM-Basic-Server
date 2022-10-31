@@ -3,9 +3,9 @@ Files needed for Initial RedM Vanilia Server
 This repository is made to have a simple RedM server with the ability to create YMAPS and other basic scripting tutorials. 
 
 1) Create a Folder Called RedM
-2) Place this repository in the folder. 
-3) Open the server-files folder
-4) Drop in the cFx artifacts files found at this link
+2) Place this repository in the folder. https://github.com/AustinBMX/RedM-Basic-Server 
+4) Open the server-files folder
+5) Drop in the cFx artifacts files found at this link
   https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
 5) Start server by clicking the exe file at 
   /RedM/server-files/FXServer.exe
