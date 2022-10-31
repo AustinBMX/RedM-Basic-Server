@@ -23,3 +23,12 @@ Thanks to the creators of free used repositories to create this guide.
 https://github.com/kibook
 
 Make sure to follow our other tutorial vidoes for more RedM Scripting and Coding Help
+
+Commands Availible In Game - - - - - 
+/noclip - toggle on and off noclip
+  W A S D to fly around
+  R to Change Speed
+/time - set the time of day
+/weatherui - open Weather GUI for more advanced features
+DEL key - opens Spooner to spawn objects and peds
+- - - - - - -
